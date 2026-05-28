@@ -52,13 +52,10 @@ The bot responds naturally - no commands needed! Though `/chat`, `/clear`, `/sta
 
 Having issues? Check out the **[Troubleshooting Guide](TROUBLESHOOTING.md)** for solutions to common problems.
 
-## ☕ Support the Developer
+## The Developer
 
 Created with ❤️ by Gabriella Baris - Check out my [portfolio](http://www.gabriellabaris.com/) for more projects and tools!
-
-If Local LLM Discord Bot has been helpful for accessing your AI on the go, consider buying me a coffee! Your support helps keep this project alive and enables continued development of new features.
-
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gabriellabaris)
+And check out my current AI safety project [elif else](https://elifelse.com/)
 
 ## 📚 Contact & Support
 
